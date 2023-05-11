@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100;400;500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+body{
+    padding: 5%;
+    font-family: 'Kumbh Sans';
+}
+h1{
+    font-family: 'Calligraffitti';
+}
+.carousel-inner .carousel-item{
+    height: 65vh;
+}
+
+.carousel-inner .carousel-item img{
+    max-width: 100%;
+    height: auto;
+}
+h3{
+    color: white;
+}
+a{
+    color: white;
+}
